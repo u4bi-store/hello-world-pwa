@@ -1,0 +1,6 @@
+{
+  "name": "u4bi pwa app",
+  "short_name": "u4bi-pwa",
+  "start_url": "/index.html",
+  "display": "standalone"
+}

@@ -1,0 +1,1 @@
+console.log('u4bi pwa script');
