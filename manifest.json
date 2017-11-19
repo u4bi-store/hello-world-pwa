@@ -2,5 +2,12 @@
   "name": "u4bi pwa app",
   "short_name": "u4bi-pwa",
   "start_url": "/index.html",
-  "display": "standalone"
+  "display": "standalone",
+  "icons" : [
+    {
+      "src"   : "./assets/logo.png",
+      "sizes" : "144x144",
+      "type"  : "image/png"
+    }
+  ]
 }
